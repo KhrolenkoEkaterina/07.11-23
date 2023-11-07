@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+.Shapka{
+  color: white;
+  background-color: purple;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}
